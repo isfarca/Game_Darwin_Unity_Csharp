@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\f.isfarca\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\f.isfarca\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\f.isfarca\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Darwin.742691913.00" t="ExcludeRecursive" />
+    <e p="C:\Users\f.isfarca\Desktop\Project_Darwin_Unity\Darwin" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Action" t="Include">
+            <e p="ActionButtons.cs" t="Include" />
+            <e p="ActionJumpLogic.cs" t="Include" />
+          </e>
+          <e p="Gameplay" t="Include">
+            <e p="CameraAutoMovement.cs" t="Include" />
+            <e p="CameraShaker.cs" t="Include" />
+            <e p="ChargeObject.cs" t="Include" />
+            <e p="Dna.cs" t="Include" />
+            <e p="FlickeringLight.cs" t="Include" />
+            <e p="Ladder.cs" t="Include" />
+            <e p="RotatingLight.cs" t="Include" />
+            <e p="SpecialAbilities.cs" t="Include" />
+            <e p="TrampleObject.cs" t="Include" />
+            <e p="Transformation.cs" t="Include" />
+            <e p="Water.cs" t="Include" />
+            <e p="Winzone.cs" t="Include" />
+          </e>
+          <e p="HUD" t="Include">
+            <e p="Control.cs" t="Include" />
+            <e p="Mutation.cs" t="Include" />
+            <e p="MutationButton.cs" t="Include" />
+            <e p="MutationHandler.cs" t="Include" />
+          </e>
+          <e p="Menu" t="Include">
+            <e p="Canvas" t="Include">
+              <e p="Controls.cs" t="Include" />
+              <e p="GeneSelection.cs" t="Include" />
+              <e p="Help.cs" t="Include" />
+              <e p="InfoAbout.cs" t="Include" />
+              <e p="LevelSelection.cs" t="Include" />
+              <e p="Load.cs" t="Include" />
+              <e p="MainMenu.cs" t="Include" />
+              <e p="Settings.cs" t="Include" />
+            </e>
+            <e p="Logics" t="Include">
+              <e p="MovementSelection.cs" t="Include" />
+            </e>
+            <e p="Managing" t="Include">
+              <e p="MMenu.cs" t="Include" />
+              <e p="Singleton.cs" t="Include" />
+            </e>
+            <e p="MenuManager.cs" t="Include" />
+          </e>
+          <e p="Movement" t="Include">
+            <e p="ControlPadMovement.cs" t="Include" />
+            <e p="KeyboardControllerMovement.cs" t="Include" />
+            <e p="MovementLogic.cs" t="Include" />
+            <e p="SwipeMovement.cs" t="Include" />
+            <e p="VirtualStickMovement.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Virtual Joystick Pack" t="Include">
+          <e p="Examples" t="Include">
+            <e p="2D Example" t="Include">
+              <e p="Player2DExample.cs" t="Include" />
+            </e>
+            <e p="3D Example" t="Include">
+              <e p="Player3DExample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Base" t="Include">
+              <e p="Joystick.cs" t="Include" />
+            </e>
+            <e p="Joysticks" t="Include">
+              <e p="FixedJoystick.cs" t="Include" />
+              <e p="FloatingJoystick.cs" t="Include" />
+              <e p="VariableJoystick.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Darwin.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

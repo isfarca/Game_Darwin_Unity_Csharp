@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecfca88b-8a6f-4c80-af9b-eaecc2481890" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1187670263">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="8556" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="167" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="167" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="8556" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/CameraAutoMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/ChargeObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/Ladder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/FlickeringLight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/CameraShaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/Transformation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/TrampleObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/MenuManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9F0A4FCD-0DC0-4584-B4CC-8C5CDBF93447/33/1e102ac4/ExecuteEvents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/RotatingLight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/SpecialAbilities.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/Water.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/KeyboardControllerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ControlPadMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/SwipeMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Logics/MovementSelection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/MovementLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/LevelSelection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/VirtualStickMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/Help.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/InfoAbout.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/Load.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/WinZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/Controls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/GeneSelection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/Settings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EB1172F-BB8A-454A-887F-2E67145F4E3E/4b/ca8f3b4f/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/37F06E47-1AE9-442E-8B0C-B308E5C42E60/c1/dc2d952b/Stack`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9F0A4FCD-0DC0-4584-B4CC-8C5CDBF93447/2e/d1c0296e/ObjectPool`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HUD/Mutation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9F0A4FCD-0DC0-4584-B4CC-8C5CDBF93447/fa/591f65ac/StandaloneInputModule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Scripts/Base/Joystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Managing/MMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HUD/MutationButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Managing/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Scripts/Joysticks/FixedJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HUD/Control.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Examples/2D Example/Player2DExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Scripts/Joysticks/VariableJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Action/ActionJumpLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Action/ActionButtons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Examples/3D Example/Player3DExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HUD/MutationHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/Dna.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Action/ActionJumpLogic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Ladder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/ChargeObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/TrampleObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/SpecialAbilities.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/ms/Settings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/ms/Controls.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/ms/Help.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/MMainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/ms/LevelSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/ms/Load.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/ms/Feedback.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/MovementSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/ms/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/ms/InfoAbout.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/ms/GeneSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/MMenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Managing/MEmptyMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Managing/MMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Managing/MSingleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/CameraShaker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/FlickeringLight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Virtual Joystick Pack/Examples/2D Example/Player2DExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Virtual Joystick Pack/Examples/3D Example/Player3DExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Virtual Joystick Pack/Scripts/Base/Joystick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Virtual Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Virtual Joystick Pack/Scripts/Joysticks/VariableJoystick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HUD/MutationGameplayButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Dna.cs" />
+        <option value="$PROJECT_DIR$/Assets/Virtual Joystick Pack/Scripts/Joysticks/FixedJoystick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HUD/Control.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/GeneTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HUD/MutationButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HUD/MutationHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Transformation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HUD/Mutation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/SwipeMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/Controls.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/GeneSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/Help.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/InfoAbout.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/LevelSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/MenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/Load.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/CameraAutoMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Winzone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/WinZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/Settings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Logics/MovementSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Water.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="25" />
+    <option name="y" value="18" />
+    <option name="width" value="1260" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35679612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37354988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3290993" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="0" weight="0.32928804" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" weight="0.32928804" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32928804" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/ChargeObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/TrampleObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Action/ActionJumpLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/SpecialAbilities.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="64" column="30" lean-forward="true" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/MOptionsMenu.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Options/MOptionsMenu.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/ms/Load.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/ms/LevelSelection.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/ms/Controls.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/ms/Feedback.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/ms/Help.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/MMainMenu.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/MovementLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="61" column="60" selection-start-line="61" selection-start-column="60" selection-end-line="61" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/MovementSelection.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/ms/MainMenu.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/ms/InfoAbout.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/ms/Settings.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/ms/GeneSelection.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/CameraShaker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="76" lean-forward="true" selection-start-line="21" selection-start-column="76" selection-end-line="21" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/FlickeringLight.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Examples/2D Example/Player2DExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Examples/3D Example/Player3DExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="82" lean-forward="true" selection-start-line="16" selection-start-column="82" selection-end-line="16" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Scripts/Base/Joystick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Scripts/Joysticks/VariableJoystick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/Dna.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="113" selection-start-line="24" selection-start-column="113" selection-end-line="24" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Virtual Joystick Pack/Scripts/Joysticks/FixedJoystick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HUD/Control.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/GeneTest.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HUD/MutationButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="96" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HUD/MutationHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="83" selection-start-line="10" selection-start-column="83" selection-end-line="10" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HUD/Mutation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5040">
+          <caret line="337" column="1" lean-forward="true" selection-start-line="337" selection-start-column="1" selection-end-line="337" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/SwipeMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="67" column="9" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/GeneSelection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="159" column="8" selection-start-line="159" selection-start-column="8" selection-end-line="159" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/InfoAbout.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/LevelSelection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/Help.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Managing/EmptyMenu.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Managing/MMenu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Managing/Singleton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/MenuManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/Ladder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="62" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/Transformation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding>
+            <marker date="1535830396319" expanded="false" signature="6:44" ph="..." />
+            <marker date="1535830396319" expanded="true" signature="89:2653" ph="{...}" />
+            <marker date="1535830396319" expanded="true" signature="285:347" ph="/// Calling before start. ... " />
+            <marker date="1535830396319" expanded="true" signature="372:718" ph="{...}" />
+            <marker date="1535830396319" expanded="true" signature="724:874" ph="/// Start the co routine for transformation set. ... " />
+            <marker date="1535830396319" expanded="true" signature="921:1909" ph="{...}" />
+            <marker date="1535830396319" expanded="true" signature="1083:1903" ph="{...}" />
+            <marker date="1535830396319" expanded="true" signature="1915:2131" ph="/// Change the sprites. ... " />
+            <marker date="1535830396319" expanded="true" signature="2205:2651" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/CameraAutoMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1535887130671" expanded="true" signature="6:53" ph="..." />
+            <marker date="1535887130671" expanded="true" signature="103:2162" ph="{...}" />
+            <marker date="1535887130671" expanded="true" signature="310:372" ph="/// Calling before start. ... " />
+            <marker date="1535887130671" expanded="true" signature="397:584" ph="{...}" />
+            <marker date="1535887130671" expanded="true" signature="590:648" ph="/// Calling by start. ... " />
+            <marker date="1535887130671" expanded="true" signature="673:994" ph="{...}" />
+            <marker date="1535887130671" expanded="true" signature="793:932" ph="{...}" />
+            <marker date="1535887130671" expanded="true" signature="1000:1090" ph="/// Called once per frame, after update has finished. ... " />
+            <marker date="1535887130671" expanded="true" signature="1120:2160" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/WinZone.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1535887456609" expanded="true" signature="6:53" ph="..." />
+            <marker date="1535887456609" expanded="true" signature="92:332" ph="{...}" />
+            <marker date="1535887456609" expanded="true" signature="99:203" ph="/// Calling by trigger. ... " />
+            <marker date="1535887456609" expanded="true" signature="255:330" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/Controls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <marker date="1535836453603" expanded="true" signature="60:622" ph="{...}" />
+            <marker date="1535836453603" expanded="true" signature="67:123" ph="/// Open this menu. ... " />
+            <marker date="1535836453603" expanded="true" signature="153:181" ph="{...}" />
+            <marker date="1535836453603" expanded="true" signature="191:247" ph="/// Close the game. ... " />
+            <marker date="1535836453603" expanded="true" signature="274:314" ph="{...}" />
+            <marker date="1535836453603" expanded="true" signature="320:384" ph="/// Open the settings menu. ... " />
+            <marker date="1535836453603" expanded="true" signature="415:469" ph="{...}" />
+            <marker date="1535836453603" expanded="true" signature="475:535" ph="/// Open the main menu. ... " />
+            <marker date="1535836453603" expanded="true" signature="566:620" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/Settings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <marker date="1535888131603" expanded="true" signature="6:40" ph="..." />
+            <marker date="1535888131603" expanded="true" signature="81:1112" ph="{...}" />
+            <marker date="1535888131603" expanded="true" signature="172:228" ph="/// Open this menu. ... " />
+            <marker date="1535888131603" expanded="true" signature="258:286" ph="{...}" />
+            <marker date="1535888131603" expanded="true" signature="296:352" ph="/// Close the game. ... " />
+            <marker date="1535888131603" expanded="true" signature="379:419" ph="{...}" />
+            <marker date="1535888131603" expanded="true" signature="425:485" ph="/// Open the main menu. ... " />
+            <marker date="1535888131603" expanded="true" signature="516:570" ph="{...}" />
+            <marker date="1535888131603" expanded="true" signature="576:639" ph="/// Open the control menu. ... " />
+            <marker date="1535888131603" expanded="true" signature="670:724" ph="{...}" />
+            <marker date="1535888131603" expanded="true" signature="730:790" ph="/// Open the help menu. ... " />
+            <marker date="1535888131603" expanded="true" signature="817:867" ph="{...}" />
+            <marker date="1535888131603" expanded="true" signature="873:931" ph="/// Calling by start. ... " />
+            <marker date="1535888131603" expanded="true" signature="956:1110" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Logics/MovementSelection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <marker date="1535888241252" expanded="true" signature="67:3489" ph="{...}" />
+            <marker date="1535888241252" expanded="true" signature="592:654" ph="/// Calling before start. ... " />
+            <marker date="1535888241252" expanded="true" signature="679:1328" ph="{...}" />
+            <marker date="1535888241252" expanded="true" signature="974:1297" ph="{...}" />
+            <marker date="1535888241252" expanded="true" signature="1334:1395" ph="/// Calling by clicking. ... " />
+            <marker date="1535888241252" expanded="true" signature="1436:1839" ph="{...}" />
+            <marker date="1535888241252" expanded="true" signature="1849:1910" ph="/// Calling by clicking. ... " />
+            <marker date="1535888241252" expanded="true" signature="1951:2352" ph="{...}" />
+            <marker date="1535888241252" expanded="true" signature="2362:2423" ph="/// Calling by clicking. ... " />
+            <marker date="1535888241252" expanded="true" signature="2466:2862" ph="{...}" />
+            <marker date="1535888241252" expanded="true" signature="2872:2954" ph="/// Buttons go forward or backward animation. ... " />
+            <marker date="1535888241252" expanded="true" signature="3068:3412" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/MainMenu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <marker date="1535892318378" expanded="true" signature="60:1080" ph="{...}" />
+            <marker date="1535892318378" expanded="true" signature="67:123" ph="/// Open this menu. ... " />
+            <marker date="1535892318378" expanded="true" signature="153:181" ph="{...}" />
+            <marker date="1535892318378" expanded="true" signature="191:247" ph="/// Close the game. ... " />
+            <marker date="1535892318378" expanded="true" signature="274:314" ph="{...}" />
+            <marker date="1535892318378" expanded="true" signature="324:388" ph="/// Open the settings menu. ... " />
+            <marker date="1535892318378" expanded="true" signature="419:473" ph="{...}" />
+            <marker date="1535892318378" expanded="true" signature="479:547" ph="/// Open the info about window. ... " />
+            <marker date="1535892318378" expanded="true" signature="579:634" ph="{...}" />
+            <marker date="1535892318378" expanded="true" signature="640:711" ph="/// Open the level selection menu. ... " />
+            <marker date="1535892318378" expanded="true" signature="748:808" ph="{...}" />
+            <marker date="1535892318378" expanded="true" signature="814:890" ph="/// Open the browser for feedback site. ... " />
+            <marker date="1535892318378" expanded="true" signature="921:1078" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/Water.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <marker date="1535894020844" expanded="true" signature="6:79" ph="..." />
+            <marker date="1535894020844" expanded="true" signature="115:1337" ph="{...}" />
+            <marker date="1535894020844" expanded="true" signature="240:319" ph="{...}" />
+            <marker date="1535894020844" expanded="true" signature="371:888" ph="{...}" />
+            <marker date="1535894020844" expanded="true" signature="628:763" ph="{...}" />
+            <marker date="1535894020844" expanded="true" signature="817:882" ph="{...}" />
+            <marker date="1535894020844" expanded="true" signature="940:1191" ph="{...}" />
+            <marker date="1535894020844" expanded="true" signature="1243:1335" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Canvas/Load.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="78" column="42" selection-start-line="78" selection-start-column="42" selection-end-line="78" selection-end-column="42" />
+          <folding>
+            <marker date="1535883927109" expanded="false" signature="6:101" ph="..." />
+            <marker date="1535883927109" expanded="true" signature="135:2435" ph="{...}" />
+            <marker date="1535883927109" expanded="true" signature="347:412" ph="/// Open the loading window. ... " />
+            <marker date="1535883927109" expanded="true" signature="442:470" ph="{...}" />
+            <marker date="1535883927109" expanded="true" signature="480:536" ph="/// Close the game. ... " />
+            <marker date="1535883927109" expanded="true" signature="563:603" ph="{...}" />
+            <marker date="1535883927109" expanded="true" signature="609:679" ph="/// Open the gene selection menu. ... " />
+            <marker date="1535883927109" expanded="true" signature="715:774" ph="{...}" />
+            <marker date="1535883927109" expanded="true" signature="780:840" ph="/// Open the main menu. ... " />
+            <marker date="1535883927109" expanded="true" signature="871:925" ph="{...}" />
+            <marker date="1535883927109" expanded="true" signature="931:989" ph="/// Calling by start. ... " />
+            <marker date="1535883927109" expanded="true" signature="1014:1103" ph="{...}" />
+            <marker date="1535883927109" expanded="true" signature="1109:1168" ph="/// Calling per frame. ... " />
+            <marker date="1535883927109" expanded="true" signature="1194:1494" ph="{...}" />
+            <marker date="1535883927109" expanded="true" signature="1500:1594" ph="/// Check, if you start loading or clicking menu buttons. ... " />
+            <marker date="1535883927109" expanded="true" signature="1636:1796" ph="{...}" />
+            <marker date="1535883927109" expanded="true" signature="1802:1966" ph="/// Level loading process. ... " />
+            <marker date="1535883927109" expanded="true" signature="2017:2433" ph="{...}" />
+            <marker date="1535883927109" expanded="true" signature="2207:2427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
